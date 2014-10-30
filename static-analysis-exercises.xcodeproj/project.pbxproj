@@ -380,6 +380,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "static-analysis-exercises/static-analysis-exercises-Prefix.pch";
 				INFOPLIST_FILE = "static-analysis-exercises/static-analysis-exercises-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -393,6 +394,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "static-analysis-exercises/static-analysis-exercises-Prefix.pch";
 				INFOPLIST_FILE = "static-analysis-exercises/static-analysis-exercises-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -457,6 +459,7 @@
 				93FF5D8F19B14E00009F6A86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		93FF5D9019B14E00009F6A86 /* Build configuration list for PBXNativeTarget "static-analysis-exercisesTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +468,7 @@
 				93FF5D9219B14E00009F6A86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
